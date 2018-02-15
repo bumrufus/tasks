@@ -19,5 +19,6 @@ return array (
     'Scheduling' => 'Zeitplanung',
     'Don\'t add to calendar' => 'Nicht zum Kalender hinzufügen',
     'Add Deadline to space calendar' => 'Deadline im Space-Kalender hinzufügen',
-    'Deadline: ' => 'Deadline: '
+    'Deadline: ' => 'Deadline: ',
+    'View' => 'Vorschau',
 );
